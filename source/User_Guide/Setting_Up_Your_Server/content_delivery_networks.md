@@ -54,7 +54,7 @@ Add a new CNAME entry that points your desired whitelabel domain to $customer.ct
 
 ![CloudFlare CNAME]({{root_url}}/images/cloudflare5.png)
 
-Now click on I AM DONE WITH CNAME SETUP. Once done; contact SendGrid support,
+Now click on I AM DONE ENTERING MY DNS RECORDS, and click on the grey cloud next to it for the traffic to be routed through CloudFlare (the cloud should turn orange). Once done, contact SendGrid support,
 and they'll validate the CDN settings and enable SSL click and open
 tracking.
 
